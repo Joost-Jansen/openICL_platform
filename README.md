@@ -3,7 +3,7 @@
 ## Overview
 This repository houses the ICL Platform, an application designed to enrich the OpenICL framework through a comprehensive visual interface. Our platform stands out by facilitating in-depth analysis and experimentation with In-Context Learning (ICL) techniques across a diverse array of Large Language Models (LLMs), tasks, and datasets. We introduce CDTabuRetriever, a sample selection method that marries similarity-based retrieval with model-based confidence assessments, offering a nuanced approach to enhancing ICL's efficiency and effectiveness.
 
-This work is completed under the Natural Language Processing course by TU Delft.
+This [research](Paper.pdf) is completed under the Natural Language Processing course by TU Delft.
 
 ## Key Features
 - **Visual Interface**: A user-friendly and intuitive interface for experimenting with and evaluating various ICL configurations.
